@@ -41,7 +41,7 @@ const LoginForm = () => {
             Senior Ease
           </h1>
           <p className="text-lg text-muted-foreground">
-            Bem vindo! Por favor, faça login para iniciar 
+            Bem vindo! Por favor, faça login para iniciar.
           </p>
         </div>
 
